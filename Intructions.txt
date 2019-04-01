@@ -1,0 +1,42 @@
+
+
+***************************************************************
+BEFORE RUNNING, ENURE THE FOLLWING REQUIREMENTS ARE MET.
+
+-When creating the program, I used a computrer running Ubuntu Linux Operating System. To ensure the execution runs as required, make sure it is executed in a Standard Unix terminal/command line interface.
+
+-Make sure Python version 2.7.0 is installed on the computer being used to run the prgram.
+
+****************************************************************
+
+STEPS
+
+1. You will first need to obtain an API key. This can be done by going to the microsoft azure website and signing up for the FaceAPI. You will then be given an API key. You will then use this key to replace the prexisting(old) key in the following text file
+
+     /StudentRegistrationEPQ/resources/APIkey.txt
+
+API key can be obtained from official cognitive face API using the link below
+
+	https://azure.microsoft.com/en-gb/try/cognitive-services/?api=face-api
+
+
+
+2. Install requirements in the requirements text file. This can be done by typing the following in the terminal/commandline interface.
+
+	pip install -r requirements.txt
+
+NOTE: execute this command in te folder containing the requirements text file.
+
+
+3. run the program using a commandline interface(make sure you are in the correct directory)
+	type the following to run.
+	
+	./run.sh
+
+------------------------------------------------------------------------------------------------
+NOTE: some of the data has been cleared(for privacy purposes)
+
+Created by: Martin Namukombo
+
+Email:  mastadict@gmail.com
+	contactmartin@programmer.com
