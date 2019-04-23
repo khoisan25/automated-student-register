@@ -1,6 +1,6 @@
 # Automated Student Registration System
 
- I built this project as my final year Extended Qualification Project(EPQ) for the year 2018. It is an automated student registration system that utilises live video feed from a camera and performs face detection and recognition. Recognised students are marked as "present" in a database for each registration session. The output of this process can also be accessed through a excel file that is generated for each session of registration.
+I built this project as my final year Extended Qualification Project(EPQ) for the year 2018. It is an automated student registration system that utilizes live video feed from a camera and performs face detection and recognition. Recognized students are marked as "present" in a database for each registration session. The output of this process can also be accessed through an excel file that is generated for each session of registration. Though the facial recognition capability of the project relies mostly on the Microsoft cognitive face API, it went trough numerous iterations. The initial build relied mostly on the "Face Recognition" python package which was later dumped due to low accuracy and high error rate. The classifier built for the second build relied on the "TensorFlow" python library which performed as required but was unusable due to its high computing power requirements. The project required a perfect build that would require low computing power but yet would deliver workable speeds and the cognitive face API just happened to meet this criteria.
 
 ## Prerequisites
 
