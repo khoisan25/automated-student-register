@@ -39,7 +39,7 @@ The program has a GUI integrated which is labelled with straight forward guideli
 
 ## Author
 
-Martin Namukombo - [mastadict](https://github.com/mastadict) 
+Martin Namukombo - [khoisan25](https://github.com/khoisan25) 
 
 ## License
 
